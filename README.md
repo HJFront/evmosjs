@@ -1,4 +1,4 @@
-# evmosjs
+# evmosjs1
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/tharsis/evmosjs.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tharsis/evmosjs/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/tharsis/evmosjs.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tharsis/evmosjs/context:javascript)
 
